@@ -1,21 +1,24 @@
 # HR Employee Attrition Analysis & Prediction
 
-## 📌 Problem Statement
-Employee attrition costs companies 50-200% of annual salary per employee. This project analyzes 1470 employees to find WHY they leave.
+📌 *Problem Statement*
+Employee attrition costs companies 50-200% of annual salary. This project analyzes 1470 employees to find WHY they leave.
 
-## 🔍 Key Findings
-- **16.12% Attrition Rate** (237 out of 1470 employees left)
-- **Sales Dept** has highest attrition - 20.6%
-- **Overtime = Main Reason:** Employees doing overtime are 3x more likely to leave
-- **Age Group 25-35** & Low Work-Life Balance employees leave most
-- **Low Salary Hike** is 2nd biggest reason
+🔍 *Key Findings*
+- *16.12% Attrition Rate* (237 out of 1470)
+- *Sales Dept* - Highest attrition 20.6%
+- *Overtime = Main Reason* - 3X more likely to quit
+- *Age 25-35* - Most attrition
 
-## 📊 Dashboard
-Power BI Dashboard with 5 KPIs - Department-wise, Age-wise, Salary-wise analysis.
+📊 *Dashboard Preview*
 
-## 🛠️ Tech Stack
-Power BI | Python (Pandas, Scikit-learn) | DAX | Machine Learning (Attrition Prediction)
+![Dashboard 1](dashboard01.png)
+![Dashboard 2](dashboard02.png)
+![Dashboard 3](dashboard03.png)
+![Dashboard 4](dashboard04.png)
 
-## 🔗 Files
-- HR_Attrition_Dashboard.pbix - Interactive Dashboard
-- HR_EMPLOYEE_ATTRITION.ipynb - Python EDA + Prediction Model
+🛠️ *Tech Stack*
+Power BI | Python | Pandas | Machine Learning | DAX
+
+📁 *Files*
+- HR_Attrition_Dashboard.pbix - Power BI File
+- HR EMPLOYEE ATTRITION.ipynb - Python Code
